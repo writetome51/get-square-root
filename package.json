@@ -1,0 +1,19 @@
+{
+  "name": "@writetome51/get-max-min-square-root",
+  "version": "1.0.0",
+  "description": "Get the max, get the min, get the square root",
+  "main": "",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "math",
+    "numbers",
+    "functions"
+  ],
+  "author": "Steve Thompson",
+  "license": "FREE",
+  "homepage": "",
+  "dependencies": {
+  }
+}
