@@ -1,3 +1,8 @@
 "use strict";
 Object.defineProperty(exports, "__esModule", { value: true });
-exports.getSquareRoot = Math.sqrt;
+var errorIfNotNumber_1 = require("basic-data-handling/errorIfNotNumber");
+function getSquareRoot(num) {
+    errorIfNotNumber_1.errorIfNotNumber(num);
+    return Math.sqrt(num);
+}
+exports.getSquareRoot = getSquareRoot;

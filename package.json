@@ -1,19 +1,22 @@
 {
-  "name": "@writetome51/get-max-min-square-root",
+  "name": "@writetome51/get-square-root",
   "version": "1.0.0",
-  "description": "Get the max, get the min, get the square root",
-  "main": "",
+  "description": "Get the square root of any number!  NERDS REJOICE!!",
+  "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [
     "math",
     "numbers",
-    "functions"
+    "square-root",
+    "square",
+    "root"
   ],
   "author": "Steve Thompson",
   "license": "FREE",
   "homepage": "",
   "dependencies": {
+    "basic-data-handling": "latest"
   }
 }
