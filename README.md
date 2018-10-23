@@ -1,5 +1,5 @@
-getSquareRoot(number)
+var getSquareRoot = require('@writetome51/get-square-root').getSquareRoot;
 
-getMax(numbers)
+getSquareRoot(number); 
 
-getMin(numbers)
+number must be finite number (and of number type), or you'll get error.
