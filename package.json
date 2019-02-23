@@ -1,7 +1,7 @@
 {
   "name": "@writetome51/get-square-root",
-  "version": "1.0.1",
-  "description": "Get the square root of any number!  NERDS REJOICE!!",
+  "version": "1.0.2",
+  "description": "Get the square root of any number!  NERDS REJOICE!",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -17,6 +17,6 @@
   "license": "FREE",
   "homepage": "",
   "dependencies": {
-    "basic-data-handling": "~1.0.13"
+    "basic-data-handling": "~1.0.15"
   }
 }
