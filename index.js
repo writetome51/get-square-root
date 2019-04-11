@@ -1,9 +1,9 @@
 "use strict";
 Object.defineProperty(exports, "__esModule", {value: true});
-var errorIfNotNumber_1 = require("basic-data-handling/errorIfNotNumber");
+var errINFNumber_1 = require("error-if-not-finite-number");
 
 function getSquareRoot(num) {
-	errorIfNotNumber_1.errorIfNotNumber(num);
+	errINFNumber_1.errorIfNotFiniteNumber(num);
 	return Math.sqrt(num);
 }
 

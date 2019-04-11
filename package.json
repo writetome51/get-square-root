@@ -17,6 +17,6 @@
   "license": "FREE",
   "homepage": "",
   "dependencies": {
-    "basic-data-handling": "~1.0.15"
+    "error-if-not-finite-number": "~1.0.0"
   }
 }
