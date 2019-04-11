@@ -15,7 +15,7 @@
   ],
   "author": "Steve Thompson",
   "license": "FREE",
-  "homepage": "",
+  "homepage": "https://github.com/writetome51/get-square-root#readme",
   "dependencies": {
     "error-if-not-finite-number": "~1.0.0"
   }
