@@ -1,6 +1,6 @@
 # getSquareRoot(number): number
 
-`number` must be finite number (and of type 'number').
+`number` must be finite number (and type 'number').
 
 ## Examples
 ```
@@ -24,10 +24,6 @@ getSquareRoot("64");  // input cannot be type 'string'
 `npm i  @writetome51/get-square-root`
 
 ## Loading
-```
-// if using TypeScript:
+```js
 import { getSquareRoot } from '@writetome51/get-square-root';
-
-// if using ES5 JavaScript:
-var getSquareRoot = require('@writetome51/get-square-root').getSquareRoot;
 ```

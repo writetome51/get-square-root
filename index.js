@@ -1,10 +1,6 @@
-"use strict";
-Object.defineProperty(exports, "__esModule", {value: true});
-var errINFNumber_1 = require("error-if-not-finite-number");
+import {errorIfNotFiniteNumber} from 'error-if-not-finite-number';
 
-function getSquareRoot(num) {
-	errINFNumber_1.errorIfNotFiniteNumber(num);
+export function getSquareRoot(num) {
+	errorIfNotFiniteNumber(num);
 	return Math.sqrt(num);
 }
-
-exports.getSquareRoot = getSquareRoot;

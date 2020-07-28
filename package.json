@@ -1,7 +1,8 @@
 {
   "name": "@writetome51/get-square-root",
-  "version": "1.0.3",
+  "version": "2.0.0",
   "description": "Get the square root of any number!  NERDS REJOICE!",
+  "type": "module",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -17,6 +18,6 @@
   "license": "FREE",
   "homepage": "https://github.com/writetome51/get-square-root#readme",
   "dependencies": {
-    "error-if-not-finite-number": "~1.0.0"
+    "error-if-not-finite-number": "^2.0.0"
   }
 }
